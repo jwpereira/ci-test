@@ -14,8 +14,8 @@ jobs:
 #     env: MATHWORKS_LICENSING_ENDPOINT=prod
 #   - matlab: latest
 #     env: MATHWORKS_LICENSING_ENDPOINT=stage
-#   - matlab: R2020a
-#     env: MATHWORKS_LICENSING_ENDPOINT=stage
+  - matlab: R2020a
+    env: MATHWORKS_LICENSING_ENDPOINT=stage
 #   - matlab: latest
 #     env: MATHWORKS_LICENSING_ENDPOINT=dev
   - matlab: R2020a
